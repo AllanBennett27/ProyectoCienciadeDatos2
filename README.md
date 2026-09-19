@@ -1,1 +1,10 @@
 # ProyectoCienciadeDatos2
+En el repositorio se encuentran los siguientes archivos:
+Informe_Proyecto_Final_Grupo1.pdf
+NewLinkWireless_CienciaDatosII.ipynb
+ProyectoDashboard.pbix
+README.md
+dataset_cancelacion_newlinkwireless.csv
+dataset_cancelacion_newlinkwireless_limpio.csv
+dataset_resultados_modelo_newlinkwireless.csv
+newlinkwireless_cienciadatosii.py
